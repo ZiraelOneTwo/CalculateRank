@@ -1,0 +1,3 @@
+C:/Users/dalji/OneDrive/Documenti/C proj/pokerRank/CalculateRank/build/CMakeFiles/Main.dir
+C:/Users/dalji/OneDrive/Documenti/C proj/pokerRank/CalculateRank/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dalji/OneDrive/Documenti/C proj/pokerRank/CalculateRank/build/CMakeFiles/ZERO_CHECK.dir
