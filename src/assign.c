@@ -12,7 +12,7 @@ bool verifyCardsNumber(const char *number_str) {
 }
 
 Card *assign_cards(int argc, char **_argv) {
-    Card *CS = (Card*)malloc(sizeof(Card)*MAX_CARDS_PER_PROGRAM);
+    Card *CS = (Card*)calloc(sizeof(Card)*MAX_CARDS_PER_PROGRAM);
     if (CS == NULL)
         return NULL;
 
